@@ -3,6 +3,7 @@ var expect = require('chai').expect;
 
 describe('Aggregation', function() {
   /**
+   * 
    * Correctly call the aggregation framework using a pipeline in an Array.
    *
    * @example-class Collection
